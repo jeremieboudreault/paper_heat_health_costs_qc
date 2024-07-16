@@ -64,7 +64,7 @@ stns_yearok <- stns[YEAR <= 2019L, .(YEAR_OK = sum(is.na(T_MAX) | is.na(T_MIN)) 
 
 # Import.
 daymet <- qs::qread(
-    "../_paper_3_4/paper_3_4_data_socioenv/data/daymet/daymet_daily_lagged_data_byrss.qs"
+    "../data_socioenv/data/daymet/daymet_daily_lagged_data_byrss.qs"
 )[, .(DATE, T_MEAN, RSS)]
 
 # Add year.
