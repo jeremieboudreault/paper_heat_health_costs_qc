@@ -19,7 +19,7 @@ Scripts are located in the `scripts/` folder :
 - `6_projected_costs.R` : Computation of projected heat-related health costs.
 
 
-Helper functions are located in the `R/` folder.
+Helper functions are located in the `scripts/funs/` folder.
 
 ---
 
