@@ -15,8 +15,9 @@ Scripts are located in the `scripts/` folder :
 - `2_pop_data.R` : Population projection data under SSP2 and SSP5.
 - `3_projected_an.R` : Projected AN to heat based on climate and population data.
 - `4_projected_hw.R` : Computation of projected heatwaves and affected population.
-- `5_projected_costs.R` : Computation of projected heat-related health costs.
-- `6_simulated_costs.R` : Monte Carlo simulation of heat-realted health costs.
+- `5_simulated_costs.R` : Monte Carlo simulation of heat-realted health costs.
+- `6_projected_costs.R` : Computation of projected heat-related health costs.
+
 
 Helper functions are located in the `R/` folder.
 
