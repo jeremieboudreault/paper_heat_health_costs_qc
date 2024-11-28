@@ -1,7 +1,7 @@
 Historical and projected heat-related health costs
 ================================================================================
 
-This is a code example for the implementation presented in the paper "*Assessing the historical and projected heat-related health costs, applied to a Canadian province*" to compute the historical and future heat-related health costs based on climate and demographic changes.
+This is a code example for the implementation presented in the paper "*Projecting the overall heat-related health burden and associated economic costs in a climate change context in Quebec, Canada*" to compute the historical and future heat-related health costs based on climate and demographic projections.
 
 - By [Jérémie Boudreault](https://jeremieboudreault.github.io/), Céline Campagna, Fateh Chebana and Éric Lavigne.
 
