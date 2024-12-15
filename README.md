@@ -1,9 +1,9 @@
 Projected heat-related health costs in Quebec, Canada
 ================================================================================
 
-This is a code example for the implementation presented in the paper "*Projecting the overall heat-related health burden and associated economic costs in a climate change context in Quebec, Canada*".
+This is a code example for the implementation presented in the paper "[*Projecting the overall heat-related health burden and associated economic costs in a climate change context in Quebec, Canada*](https://doi.org/10.1016/j.scitotenv.2024.178022)".
 
-- By [Jérémie Boudreault](https://jeremieboudreault.github.io/), Céline Campagna, Fateh Chebana and Éric Lavigne.
+- By [Jérémie Boudreault](https://jeremieboudreault.github.io/), Céline Campagna, Éric Lavigne and Fateh Chebana. 
 
 ---
 
